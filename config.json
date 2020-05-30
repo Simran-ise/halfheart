@@ -9,12 +9,12 @@
     "gh_url":"https://github.com/Half-Heart",
     "blog_name": "Half Heart",
     "tag_line": "Enough to Survive!",
-    "gmail-user":"simran.ise@gmail.com",
-    "gmail-password":"ise@1234",
+    "gmail-user":"",
+    "gmail-password":"",
     "no_of_posts": 3,
     "login_image":"login.png",
-    "admin_user":"simran",
-    "admin_password": "believe",
+    "admin_user":"",
+    "admin_password": "",
     "upload_location": "C:\\Users\\Simran\\PycharmProjects\\flask-tut>"
 
   }
